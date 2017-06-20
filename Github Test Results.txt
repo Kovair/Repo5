@@ -1,0 +1,35 @@
+GitHub test scenarios :
+======================
+ISSUES :
+--------------------
+1. Add 1 issue. -->Event comes properly.
+
+2. Modify this issue >>Title Modified >>Event comes for that.
+
+3. Change Issue status >>Open to Close >>No event comes for that >> Issue Id : 5370
+
+4. Description / Comments not come to Kovair. >> Issue Id : 5371
+
+5. Milestone added only first time , but from 2nd time onwards milestone is not modified.  >> Issue Id : 5374
+
+6.  What is Milestone description ? This is blank in Kovair.
+
+7. In Assignee field --> At a time only one assignee value displayed at kovair though more than one assignee is added in Github. Assignee is a multi valued lookup in kovair>> Issue Id : 5372
+
+GitHub : Issue : Milestone is added at kovair only for first time.from 2nd time onwards milestone is not modified .
+
+8. Label and Projects of an Issue should add in Kovair.
+
+
+REPOSITORY :
+-------------------------------
+1. Cannot understand the Four graphs  properly .
+ 
+
+
+
+
+
+
+
+
